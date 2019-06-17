@@ -1,2 +1,0 @@
-# pythonTest
-Python Learning Test
